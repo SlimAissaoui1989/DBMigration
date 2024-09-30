@@ -12,7 +12,7 @@ DBMigration is a tool designed to assist with database migrations. It allows use
 
 # Installation
 1. Clone the repository:
-  git clone https://github.com/yourusername/DBMigration.git
+  git clone https://github.com/SlimAissaoui1989/DBMigration
 2. Navigate to the project directory:
   cd DBMigration
 3. Build the project:
