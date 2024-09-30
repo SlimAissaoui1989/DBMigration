@@ -1,0 +1,16 @@
+{
+  "Connection": {
+    "DataBaseServer": {
+      "Host": "192.168.10.216",
+      "DataBase": {
+        "Port": null,
+        "Instance": null,
+        "DataBaseName": "TestMasMetal",
+        "UserId": "sa",
+        "UserPassword": "123"
+      }
+    }
+  },
+  "LocalConfig": {
+  }
+}
